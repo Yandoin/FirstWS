@@ -7,5 +7,8 @@ public class HelloWorld {
             System.out.println(i);
         }
 
+        int[] numbers = new int[10];
+
+
     }
 }
