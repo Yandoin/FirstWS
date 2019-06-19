@@ -9,6 +9,9 @@ public class HelloWorld {
 
         int[] numbers = new int[10];
 
-
+        for (int k = 0; k < numbers.length; k++) {
+            numbers[k]=k*7;
+            System.out.println(numbers[k]);
+        }
     }
 }
